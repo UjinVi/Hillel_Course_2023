@@ -1,5 +1,0 @@
-# Created at 2023-05-31T14:49:17.206
-Boot Manifest-JAR contains absolute paths in classpath 'D:\Курсы Hilel\HillelCourse\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
