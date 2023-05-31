@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75bc59f5-3fb1-43b5-8cad-40d88a2f9699" name="Changes" comment="Homework lesson 06">
-      <change afterPath="$PROJECT_DIR$/src/ua/hilell/Homework05/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hilell/Homework05/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hilell/Homework05/TaskWithAnAsterisk.java" afterDir="false" />
+    <list default="true" id="75bc59f5-3fb1-43b5-8cad-40d88a2f9699" name="Changes" comment="Homework lesson 09">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homeword09/DuplicateRemoval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homeword09/DuplicateRemoval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homeword09/DuplicateRemovalTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homeword09/DuplicateRemovalTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homeword09/ShoppingList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homeword09/ShoppingList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homeword09/SortingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homeword09/SortingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework/CircleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework/CircleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework/TemperatureConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework/TemperatureConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework/TriangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework/TriangleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework03/AbsoluteValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework03/AbsoluteValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework03/CheckOddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework03/CheckOddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework03/PrintMonthInWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework03/PrintMonthInWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework03/PrintMonthingWordSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework03/PrintMonthingWordSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework03/TriangleCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework03/TriangleCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework04/AverageOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework04/AverageOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework04/RandomNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework04/RandomNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework04/TableofValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework04/TableofValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework04/TaskWithAnAsterisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework04/TaskWithAnAsterisk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework05/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework05/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework05/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework05/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework05/TaskWithAnAsterisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework05/TaskWithAnAsterisk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework07/ColoredLoger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework07/ColoredLoger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework07/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework07/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework08/TaskWithAnAsteriks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework08/TaskWithAnAsteriks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lesson02/Myfirstclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lesson02/Myfirstclass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lesson02/PrimitiveExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lesson02/PrimitiveExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lesson02/PrimitiveOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lesson02/PrimitiveOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +80,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Homework08" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,22 +115,29 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindowGit.ShowToolbar": "false",
     "last_opened_file_path": "D:/Курсы Hilel/HillelCourse",
     "onboarding.tips.debug.path": "D:/Курсы Hilel/HillelCourse/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.folding",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
     "two.files.diff.last.used.folder": "D:/Курсы Hilel/HillelCourse"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ua.hilell.Homework05.TaskWithAnAsterisk">
-    <configuration name="AverageOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hilell.Homework04.AverageOfArray" />
+  <component name="RunManager" selected="Maven.Hillel_Course_2023 [clean,test...]">
+    <configuration name="DuplicateRemoval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hilell.Homeword09.DuplicateRemoval" />
       <module name="Hillel_Course_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hilell.Homework04.*" />
+          <option name="PATTERN" value="ua.hilell.Homeword09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hilell.Homework04.RandomNumbers" />
+    <configuration name="DuplicateRemovalTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hilell.Homeword09.DuplicateRemovalTwo" />
       <module name="Hillel_Course_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hilell.Homework04.*" />
+          <option name="PATTERN" value="ua.hilell.Homeword09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TableofValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hilell.Homework04.TableofValues" />
+    <configuration name="ShoppingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hilell.Homeword09.ShoppingList" />
       <module name="Hillel_Course_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hilell.Homework04.*" />
+          <option name="PATTERN" value="ua.hilell.Homeword09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskWithAnAsterisk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hilell.Homework04.TaskWithAnAsterisk" />
+    <configuration name="SortingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hilell.Homeword09.SortingNumbers" />
       <module name="Hillel_Course_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hilell.Homework04.*" />
+          <option name="PATTERN" value="ua.hilell.Homeword09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,26 +184,75 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ua.hilell.Homework05.TaskWithAnAsterisk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hilell.Homework05.TaskWithAnAsterisk" />
+    <configuration name="Hillel_Course_2023 [clean,test...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-Dname=Jonny" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="FIsrtTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hilell.Homework05.*" />
+          <option name="PATTERN" value="Testpacage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Testpacage" />
+      <option name="MAIN_CLASS_NAME" value="Testpacage.FIsrtTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.DuplicateRemoval" />
+      <item itemvalue="Application.DuplicateRemovalTwo" />
+      <item itemvalue="Application.ShoppingList" />
+      <item itemvalue="Application.SortingNumbers" />
+      <item itemvalue="Maven.Hillel_Course_2023 [clean,test...]" />
+      <item itemvalue="TestNG.FIsrtTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ua.hilell.Homework05.TaskWithAnAsterisk" />
-        <item itemvalue="Application.TaskWithAnAsterisk" />
-        <item itemvalue="Application.AverageOfArray" />
-        <item itemvalue="Application.RandomNumbers" />
-        <item itemvalue="Application.TableofValues" />
+        <item itemvalue="TestNG.FIsrtTest" />
+        <item itemvalue="Application.SortingNumbers" />
+        <item itemvalue="Application.ShoppingList" />
+        <item itemvalue="Application.DuplicateRemovalTwo" />
+        <item itemvalue="Application.DuplicateRemoval" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +286,35 @@
       <option name="project" value="LOCAL" />
       <updated>1682163225213</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Homework lesson 06">
+      <created>1682448946087</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682448946087</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Homework lesson 07">
+      <created>1683197039452</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683197039452</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Homework lesson 08 add exceptions to poker game">
+      <created>1683815046738</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683815046738</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Homework lesson 09">
+      <created>1684745832292</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684745832292</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,7 +333,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="Homework08" />
                       </list>
                     </value>
                   </entry>
@@ -237,6 +349,9 @@
     <MESSAGE value="Update git ignore" />
     <MESSAGE value="Update project" />
     <MESSAGE value="Homework lesson 06" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework lesson 06" />
+    <MESSAGE value="Homework lesson 07" />
+    <MESSAGE value="Homework lesson 08 add exceptions to poker game" />
+    <MESSAGE value="Homework lesson 09" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework lesson 09" />
   </component>
 </project>
