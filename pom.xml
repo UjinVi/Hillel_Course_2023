@@ -13,6 +13,10 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <fakerVersion>1.0.2</fakerVersion>
+        <testngVersion>7.8.0</testngVersion>
+<!--        <LogBackVersion>1.4.7</LogBackVersion>-->
+        <SeleniumWebDriverVersion>4.10.0</SeleniumWebDriverVersion>
+        <webdrivermanagerVersion>5.3.3</webdrivermanagerVersion>
     </properties>
 
     <dependencies>
@@ -24,13 +28,24 @@
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>7.8.0</version>
+            <version>${testngVersion}</version>
             <scope>test</scope>
         </dependency>
+
+<!--        <dependency>-->
+<!--            <groupId>ch.qos.logback</groupId>-->
+<!--            <artifactId>logback-classic</artifactId>-->
+<!--            <version>${LogBackVersion}</version>-->
+<!--        </dependency>-->
         <dependency>
-            <groupId>ch.qos.logback</groupId>
-            <artifactId>logback-classic</artifactId>
-            <version>1.2.3</version>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>${SeleniumWebDriverVersion}</version>
+        </dependency>
+        <dependency>
+            <groupId>io.github.bonigarcia</groupId>
+            <artifactId>webdrivermanager</artifactId>
+            <version>${webdrivermanagerVersion}</version>
         </dependency>
 
     </dependencies>
@@ -43,7 +58,7 @@
                 <version>3.1.0</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <!--                        <suiteXmlFile>testng.xml</suiteXmlFile>-->
+<!--                                                <suiteXmlFile>testng.xml</suiteXmlFile>-->
                     </suiteXmlFiles>
                     <systemProperties>
                         <name>Karl</name>

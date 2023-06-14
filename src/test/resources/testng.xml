@@ -1,18 +1,10 @@
-<!DOCTYPE suite System "https://testng.org/testng-1.0.dtd" >
-
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Test Suite">
-    <test name="My Tests">
-      <parameters>
-            <parameter name="param1" value="value1" />
-            <parameter name="param2" value="value2" />
-        </parameters>
-        <groups>
-             <run>
-             </run>
-        </groups>
-        
+    <test name="DroppedTest">
         <classes>
-            <class name="Testpackage.MyTests" />
+            <class name="Homework13.DroppedTest" />
+            <class name="Homework13.HoverMenuTest" />
+            <class name="Homework13.HoverTest">
         </classes>
     </test>
 </suite>
