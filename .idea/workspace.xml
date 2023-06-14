@@ -7,36 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75bc59f5-3fb1-43b5-8cad-40d88a2f9699" name="Changes" comment="Homework lesson 09">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="75bc59f5-3fb1-43b5-8cad-40d88a2f9699" name="Changes" comment="Homework lesson 12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homeword09/DuplicateRemoval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homeword09/DuplicateRemoval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homeword09/DuplicateRemovalTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homeword09/DuplicateRemovalTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homeword09/ShoppingList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homeword09/ShoppingList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homeword09/SortingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homeword09/SortingNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework/CircleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework/CircleArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework/TemperatureConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework/TemperatureConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework/TriangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework/TriangleArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework03/AbsoluteValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework03/AbsoluteValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework03/CheckOddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework03/CheckOddEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework03/PrintMonthInWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework03/PrintMonthInWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework03/PrintMonthingWordSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework03/PrintMonthingWordSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework03/TriangleCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework03/TriangleCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework04/AverageOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework04/AverageOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework04/RandomNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework04/RandomNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework04/TableofValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework04/TableofValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework04/TaskWithAnAsterisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework04/TaskWithAnAsterisk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework05/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework05/Card.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework05/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework05/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework05/TaskWithAnAsterisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework05/TaskWithAnAsterisk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework07/ColoredLoger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework07/ColoredLoger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework07/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework07/Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hilell/Homework08/TaskWithAnAsteriks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/Homework08/TaskWithAnAsteriks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lesson02/Myfirstclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lesson02/Myfirstclass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lesson02/PrimitiveExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lesson02/PrimitiveExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ua/hillel/lesson02/PrimitiveOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/lesson02/PrimitiveOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +54,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Homework08" />
+        <entry key="$PROJECT_DIR$" value="Homework12" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -113,77 +87,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowGit.ShowToolbar": "false",
-    "last_opened_file_path": "D:/Курсы Hilel/HillelCourse",
-    "onboarding.tips.debug.path": "D:/Курсы Hilel/HillelCourse/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "two.files.diff.last.used.folder": "D:/Курсы Hilel/HillelCourse"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Курсы Hilel/HillelCourse&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Курсы Hilel/HillelCourse/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;two.files.diff.last.used.folder&quot;: &quot;D:/Курсы Hilel/HillelCourse&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Maven.Hillel_Course_2023 [clean,test...]">
-    <configuration name="DuplicateRemoval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hilell.Homeword09.DuplicateRemoval" />
-      <module name="Hillel_Course_2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.hilell.Homeword09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DuplicateRemovalTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hilell.Homeword09.DuplicateRemovalTwo" />
-      <module name="Hillel_Course_2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.hilell.Homeword09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShoppingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hilell.Homeword09.ShoppingList" />
-      <module name="Hillel_Course_2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.hilell.Homeword09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hilell.Homeword09.SortingNumbers" />
-      <module name="Hillel_Course_2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.hilell.Homeword09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="TestNG.HoverTest">
     <configuration name="Hillel_Course_2023 [clean,test...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -211,19 +134,19 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
-    <configuration name="FIsrtTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckboxTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Testpacage.*" />
+          <option name="PATTERN" value="Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="Testpacage" />
-      <option name="MAIN_CLASS_NAME" value="Testpacage.FIsrtTest" />
+      <option name="PACKAGE_NAME" value="Homework" />
+      <option name="MAIN_CLASS_NAME" value="Homework.CheckboxTest" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
@@ -238,21 +161,160 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CheckboxTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_Course_2023" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Homework" />
+      <option name="MAIN_CLASS_NAME" value="Homework.CheckboxTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DroppedTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_Course_2023" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Homework13" />
+      <option name="MAIN_CLASS_NAME" value="Homework13.DroppedTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2" />
+    </configuration>
+    <configuration name="HoverMenuTest" type="TestNG" nameIsGenerated="true">
+      <module name="Hillel_Course_2023" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Homework13" />
+      <option name="MAIN_CLASS_NAME" value="Homework13.HoverMenuTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2" />
+    </configuration>
+    <configuration name="HoverMenuTest.testHoverMenu" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_Course_2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Homework13" />
+      <option name="MAIN_CLASS_NAME" value="Homework13.HoverMenuTest" />
+      <option name="METHOD_NAME" value="testHoverMenu" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HoverTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_Course_2023" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Homework13" />
+      <option name="MAIN_CLASS_NAME" value="Homework13.HoverTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2" />
+    </configuration>
+    <configuration name="HoverTest.testHover" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_Course_2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Homework13" />
+      <option name="MAIN_CLASS_NAME" value="Homework13.HoverTest" />
+      <option name="METHOD_NAME" value="testHover" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.DuplicateRemoval" />
-      <item itemvalue="Application.DuplicateRemovalTwo" />
-      <item itemvalue="Application.ShoppingList" />
-      <item itemvalue="Application.SortingNumbers" />
       <item itemvalue="Maven.Hillel_Course_2023 [clean,test...]" />
-      <item itemvalue="TestNG.FIsrtTest" />
+      <item itemvalue="TestNG.HoverMenuTest" />
+      <item itemvalue="TestNG.HoverTest.testHover" />
+      <item itemvalue="TestNG.HoverTest" />
+      <item itemvalue="TestNG.HoverMenuTest.testHoverMenu" />
+      <item itemvalue="TestNG.CheckboxTest" />
+      <item itemvalue="TestNG.DroppedTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FIsrtTest" />
-        <item itemvalue="Application.SortingNumbers" />
-        <item itemvalue="Application.ShoppingList" />
-        <item itemvalue="Application.DuplicateRemovalTwo" />
-        <item itemvalue="Application.DuplicateRemoval" />
+        <item itemvalue="TestNG.HoverTest" />
+        <item itemvalue="TestNG.HoverTest.testHover" />
+        <item itemvalue="TestNG.CheckboxTest" />
+        <item itemvalue="TestNG.HoverMenuTest.testHoverMenu" />
+        <item itemvalue="TestNG.DroppedTest" />
       </list>
     </recent_temporary>
   </component>
@@ -318,6 +380,11 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="faa8db82-1513-4af8-9b80-cb13dfa1fc33" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -333,12 +400,37 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Homework08" />
+                        <option value="Homework13" />
                       </list>
                     </value>
                   </entry>
                 </map>
               </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="faa8db82-1513-4af8-9b80-cb13dfa1fc33">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/Курсы Hilel/HillelCourse/src/main/resources" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
             </State>
           </value>
         </entry>
@@ -353,5 +445,10 @@
     <MESSAGE value="Homework lesson 08 add exceptions to poker game" />
     <MESSAGE value="Homework lesson 09" />
     <option name="LAST_COMMIT_MESSAGE" value="Homework lesson 09" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HillelCourse$CheckboxTest.ic" NAME="CheckboxTest Coverage Results" MODIFIED="1686729568344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Homework.*</FILTER>
+    </SUITE>
   </component>
 </project>
