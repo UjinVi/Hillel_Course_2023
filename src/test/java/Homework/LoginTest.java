@@ -2,11 +2,13 @@ package Homework;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.testng.Assert;
-import org.testng.annotations.*;
-import org.openqa.selenium.By;
+import org.testng.annotations.Test;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.PageFactory;
+import ua.hilell.pages.LoginPage;
+import ua.hilell.pages.MainPage;
+import ua.hilell.pages.SecurePage;
 
 public class LoginTest {
 
@@ -16,43 +18,41 @@ public class LoginTest {
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
 
-        driver.get("https://the-internet.herokuapp.com/login");
+        MainPage mainPage = PageFactory.initElements(driver, MainPage.class);
+        mainPage.open();
 
-        WebElement usernameField = driver.findElement(By.id("username"));
-        WebElement passwordField = driver.findElement(By.id("password"));
-        WebElement loginButton = driver.findElement(By.cssSelector("button[type='submit']"));
+        LoginPage loginPage = mainPage.clickFormAuthentication();
 
-        usernameField.sendKeys("tomsmith");
-        passwordField.sendKeys("SuperSecretPassword!");
-        loginButton.click();
+        loginPage.enterUsername("tomsmith");
+        loginPage.enterPassword("SuperSecretPassword!");
+        SecurePage securePage = loginPage.clickLogButton();
 
-        WebElement successMessage = driver.findElement(By.cssSelector(".flash.success"));
-        String messageText = successMessage.getText();
+        Assert.assertEquals(securePage.getTitle(), "Secure Area",
+                "Wrong page title is displayed");
 
-        Assert.assertTrue(messageText.contains("You logged into a secure area!"), "Correct login message is not displayed");
-
+        securePage.logout();
         driver.quit();
     }
 
     @Test
     public void testIncorrectLogin() {
+        WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
 
-        driver.get("https://the-internet.herokuapp.com/login");
+        MainPage mainPage = PageFactory.initElements(driver, MainPage.class);
+        mainPage.open();
 
-        WebElement usernameField = driver.findElement(By.id("username"));
-        WebElement passwordField = driver.findElement(By.id("password"));
-        WebElement loginButton = driver.findElement(By.cssSelector("button[type='submit']"));
+        LoginPage loginPage = mainPage.clickFormAuthentication();
 
-        usernameField.sendKeys("invaliduser");
-        passwordField.sendKeys("invalidpassword");
-        loginButton.click();
+        loginPage.enterUsername("invaliduser");
+        loginPage.enterPassword("InvalidPassword!");
+        loginPage.clickLogButton();
 
-        WebElement errorMessage = driver.findElement(By.cssSelector(".flash.error"));
-        String messageText = errorMessage.getText();
+        String errorMessage = loginPage.getErrorMessage();
 
-        Assert.assertTrue(messageText.contains("Your username is invalid!"), "Incorrect login message is not displayed");
+        Assert.assertEquals(errorMessage, "Your username is invalid!",
+                "Incorrect login message is not displayed");
 
         driver.quit();
     }
