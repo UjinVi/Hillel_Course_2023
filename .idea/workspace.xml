@@ -7,10 +7,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75bc59f5-3fb1-43b5-8cad-40d88a2f9699" name="Changes" comment="Homework lesson 10">
+    <list default="true" id="75bc59f5-3fb1-43b5-8cad-40d88a2f9699" name="Changes" comment="Homework lesson 12">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Testpacage/FIsrtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Testpackage/FIsrtTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homework/CheckboxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework/CheckboxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homework/DomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework/DomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homework/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +61,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Homework12" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -78,8 +85,16 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
   </component>
   <component name="ProjectId" id="2NojDhiAjpeUjtYPW3Icna67zUv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -96,18 +111,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ToolWindowGit.ShowToolbar": "false",
-    "last_opened_file_path": "D:/Курсы Hilel/HillelCourse",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Курсы Hilel/HillelCourse/src/test/resources/testng.xml",
     "onboarding.tips.debug.path": "D:/Курсы Hilel/HillelCourse/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
+    "settings.editor.selected.configurable": "com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable",
     "two.files.diff.last.used.folder": "D:/Курсы Hilel/HillelCourse"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.MyTests">
-    <configuration name="DuplicateRemovalTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hilell.Homeword09.DuplicateRemovalTwo" />
+  <component name="RunManager" selected="TestNG.CheckboxTest">
+    <configuration name="CheckboxTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
@@ -130,23 +145,21 @@
       <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
-    <configuration name="DroppedTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DomTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework13.*" />
+          <option name="PATTERN" value="Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="Homework13" />
-      <option name="MAIN_CLASS_NAME" value="Homework13.DroppedTest" />
+      <option name="PACKAGE_NAME" value="Homework" />
+      <option name="MAIN_CLASS_NAME" value="Homework.DomTest" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
@@ -159,61 +172,18 @@
       <listeners />
       <method v="2" />
     </configuration>
-    <configuration name="HoverMenuTest" type="TestNG" nameIsGenerated="true">
+    <configuration name="FIsrtTest" type="TestNG" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework13.*" />
+          <option name="PATTERN" value="Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="Homework13" />
-      <option name="MAIN_CLASS_NAME" value="Homework13.HoverMenuTest" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2" />
-    </configuration>
-    <configuration name="HoverMenuTest.testHoverMenu" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Hillel_Course_2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Homework13" />
-      <option name="MAIN_CLASS_NAME" value="Homework13.HoverMenuTest" />
-      <option name="METHOD_NAME" value="testHoverMenu" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HoverTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Hillel_Course_2023" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Testpackage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="Testpacage" />
+      <option name="PACKAGE_NAME" value="Testpackage" />
       <option name="MAIN_CLASS_NAME" value="Testpackage.FIsrtTest" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -227,17 +197,68 @@
       <listeners />
       <method v="2" />
     </configuration>
-    <configuration name="HoverTest.testHover" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework13.*" />
+          <option name="PATTERN" value="Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Homework13" />
-      <option name="MAIN_CLASS_NAME" value="Homework13.HoverTest" />
-      <option name="METHOD_NAME" value="testHover" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Homework" />
+      <option name="MAIN_CLASS_NAME" value="Homework.LoginTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2" />
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_Course_2023" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Homework" />
+      <option name="MAIN_CLASS_NAME" value="Homework.LoginTest" />
+      <option name="METHOD_NAME" value="testCorrectLogin" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2" />
+    </configuration>
+    <configuration name="LoginTest.testIncorrectLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_Course_2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Homework" />
+      <option name="MAIN_CLASS_NAME" value="Homework.LoginTest" />
+      <option name="METHOD_NAME" value="testIncorrectLogin" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -253,7 +274,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Testpacage" />
+      <option name="PACKAGE_NAME" value="Testpackage" />
       <option name="MAIN_CLASS_NAME" value="Testpackage.MyTests" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
@@ -263,20 +284,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DuplicateRemovalTwo" />
-      <item itemvalue="Application.ShoppingList" />
-      <item itemvalue="Application.SortingNumbers" />
-      <item itemvalue="Maven.Hillel_Course_2023 [clean,test...]" />
-      <item itemvalue="TestNG.MyTests" />
       <item itemvalue="TestNG.FIsrtTest" />
+      <item itemvalue="TestNG.DomTest" />
+      <item itemvalue="TestNG.LoginTest.testIncorrectLogin" />
+      <item itemvalue="TestNG.MyTests" />
+      <item itemvalue="TestNG.LoginTest" />
+      <item itemvalue="TestNG.CheckboxTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CheckboxTest" />
+        <item itemvalue="TestNG.DomTest" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginTest.testIncorrectLogin" />
         <item itemvalue="TestNG.MyTests" />
-        <item itemvalue="TestNG.FIsrtTest" />
-        <item itemvalue="Application.SortingNumbers" />
-        <item itemvalue="Application.ShoppingList" />
-        <item itemvalue="Application.DuplicateRemovalTwo" />
       </list>
     </recent_temporary>
   </component>
