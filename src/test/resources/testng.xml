@@ -1,11 +1,9 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 
 <suite name="Test Suite">
-    <test name="DroppedTest">
-        <classes>
-            <class name="Homework13.DroppedTest" />
-            <class name="Homework13.HoverMenuTest" />
-            <class name="Homework13.HoverTest" />
-        </classes>
+    <test name="Test">
+        <packages>
+            <package name="test.*" />
+        </packages>
     </test>
 </suite>

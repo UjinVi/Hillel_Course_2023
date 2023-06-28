@@ -1,0 +1,3 @@
+name,lastname,age,role
+Jon,Snow,19,admin
+Aria,Stark,15,user
