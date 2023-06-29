@@ -8,10 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75bc59f5-3fb1-43b5-8cad-40d88a2f9699" name="Changes" comment="Homework lesson 12">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hilell/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/hilell/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/pages/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,9 @@
     <option name="groupingKeys">
       <option value="module" />
     </option>
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,7 +57,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Homework14" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -121,7 +123,7 @@
       <recent name="ua.hilell.Files" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FileUploadDownloadTest">
+  <component name="RunManager" selected="TestNG.DynamicLoadingTest">
     <configuration name="CheckboxTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
       <extension name="coverage">
@@ -138,6 +140,31 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="DynamicLoadingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_Course_2023" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Homework16" />
+      <option name="MAIN_CLASS_NAME" value="Homework16.DynamicLoadingTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2" />
     </configuration>
     <configuration name="FIsrtTest" type="TestNG" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
@@ -164,38 +191,13 @@
       <listeners />
       <method v="2" />
     </configuration>
-    <configuration name="FileDownload" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Hillel_Course_2023" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="Homework15" />
-      <option name="MAIN_CLASS_NAME" value="Homework15.FileDownload" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2" />
-    </configuration>
     <configuration name="FileUploadDownloadTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework15.*" />
+          <option name="PATTERN" value="Homework16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,7 +222,7 @@
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework15.*" />
+          <option name="PATTERN" value="Homework16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,19 +294,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.FIsrtTest" />
+      <item itemvalue="TestNG.DynamicLoadingTest" />
       <item itemvalue="TestNG.FileUploadDownloadTest" />
       <item itemvalue="TestNG.CheckboxTest" />
       <item itemvalue="TestNG.LoginTest" />
       <item itemvalue="TestNG.FileUploadTest" />
-      <item itemvalue="TestNG.FileDownload" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DynamicLoadingTest" />
         <item itemvalue="TestNG.FileUploadDownloadTest" />
         <item itemvalue="TestNG.FileUploadTest" />
         <item itemvalue="TestNG.LoginTest" />
         <item itemvalue="TestNG.CheckboxTest" />
-        <item itemvalue="TestNG.FileDownload" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +392,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Homework13" />
+                        <option value="Homework_15" />
                       </list>
                     </value>
                   </entry>
