@@ -17,6 +17,7 @@
 <!--        <LogBackVersion>1.4.7</LogBackVersion>-->
         <SeleniumWebDriverVersion>4.10.0</SeleniumWebDriverVersion>
         <webdrivermanagerVersion>5.3.3</webdrivermanagerVersion>
+        <selenidVersion>6.15.0</selenidVersion>
     </properties>
 
     <dependencies>
@@ -46,6 +47,11 @@
             <groupId>io.github.bonigarcia</groupId>
             <artifactId>webdrivermanager</artifactId>
             <version>${webdrivermanagerVersion}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.codeborne</groupId>
+            <artifactId>selenide</artifactId>
+            <version>${selenidVersion}</version>
         </dependency>
 
     </dependencies>
