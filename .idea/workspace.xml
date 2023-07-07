@@ -7,10 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75bc59f5-3fb1-43b5-8cad-40d88a2f9699" name="Changes" comment="Homework lesson 12">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="75bc59f5-3fb1-43b5-8cad-40d88a2f9699" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Homework14" />
+        <entry key="$PROJECT_DIR$" value="Homework_15" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -123,48 +123,24 @@
       <recent name="ua.hilell.Files" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.DynamicLoadingTest">
-    <configuration name="CheckboxTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestRest.testGet">
+    <configuration name="DynamicLoadingTest.testDynamicLink1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Homework" />
-      <option name="MAIN_CLASS_NAME" value="Homework.CheckboxTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicLoadingTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Hillel_Course_2023" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Homework16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="Homework16" />
       <option name="MAIN_CLASS_NAME" value="Homework16.DynamicLoadingTest" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
+      <option name="METHOD_NAME" value="testDynamicLink1" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
-      <method v="2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="FIsrtTest" type="TestNG" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
@@ -191,19 +167,19 @@
       <listeners />
       <method v="2" />
     </configuration>
-    <configuration name="FileUploadDownloadTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RestPostTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework16.*" />
+          <option name="PATTERN" value="Homework17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="Homework15" />
-      <option name="MAIN_CLASS_NAME" value="Homework15.FileUploadDownloadTest" />
+      <option name="PACKAGE_NAME" value="Homework17" />
+      <option name="MAIN_CLASS_NAME" value="Homework17.RestPostTest" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
@@ -216,19 +192,37 @@
       <listeners />
       <method v="2" />
     </configuration>
-    <configuration name="FileUploadTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RestPostTest.getAllPostsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hillel_Course_2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Homework17" />
+      <option name="MAIN_CLASS_NAME" value="Homework17.RestPostTest" />
+      <option name="METHOD_NAME" value="getAllPostsTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
       <shortenClasspath name="NONE" />
       <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework16.*" />
+          <option name="PATTERN" value="Homework17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="Homework15" />
-      <option name="MAIN_CLASS_NAME" value="Homework15.FileUploadTest" />
+      <option name="PACKAGE_NAME" value="Homework17" />
+      <option name="MAIN_CLASS_NAME" value="Homework17.TestRest" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
@@ -241,72 +235,39 @@
       <listeners />
       <method v="2" />
     </configuration>
-    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRest.testGet" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.*" />
+          <option name="PATTERN" value="Homework17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="Homework" />
-      <option name="MAIN_CLASS_NAME" value="Homework.LoginTest" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
+      <option name="PACKAGE_NAME" value="Homework17" />
+      <option name="MAIN_CLASS_NAME" value="Homework17.TestRest" />
+      <option name="METHOD_NAME" value="testGet" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
-      <method v="2" />
-    </configuration>
-    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Hillel_Course_2023" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="Homework" />
-      <option name="MAIN_CLASS_NAME" value="Homework.LoginTest" />
-      <option name="METHOD_NAME" value="testCorrectLogin" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="TestNG.FIsrtTest" />
-      <item itemvalue="TestNG.DynamicLoadingTest" />
-      <item itemvalue="TestNG.FileUploadDownloadTest" />
-      <item itemvalue="TestNG.CheckboxTest" />
-      <item itemvalue="TestNG.LoginTest" />
-      <item itemvalue="TestNG.FileUploadTest" />
+      <item itemvalue="TestNG.TestRest.testGet" />
+      <item itemvalue="TestNG.TestRest" />
+      <item itemvalue="TestNG.DynamicLoadingTest.testDynamicLink1" />
+      <item itemvalue="TestNG.RestPostTest.getAllPostsTest" />
+      <item itemvalue="TestNG.RestPostTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DynamicLoadingTest" />
-        <item itemvalue="TestNG.FileUploadDownloadTest" />
-        <item itemvalue="TestNG.FileUploadTest" />
-        <item itemvalue="TestNG.LoginTest" />
-        <item itemvalue="TestNG.CheckboxTest" />
+        <item itemvalue="TestNG.TestRest.testGet" />
+        <item itemvalue="TestNG.TestRest" />
+        <item itemvalue="TestNG.RestPostTest" />
+        <item itemvalue="TestNG.RestPostTest.getAllPostsTest" />
+        <item itemvalue="TestNG.DynamicLoadingTest.testDynamicLink1" />
       </list>
     </recent_temporary>
   </component>
