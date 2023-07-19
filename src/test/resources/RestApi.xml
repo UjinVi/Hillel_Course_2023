@@ -3,7 +3,7 @@
 <suite name="Rest Api Suit" verbose="1">
     <test name="Api Suit" verbose="1">
         <classes>
-            <class name="Homework17.RestPostTest"></class>
+            <class name="Homework17.RestPostTest"/>
         </classes>
     </test>
 </suite>
