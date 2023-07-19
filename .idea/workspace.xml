@@ -7,10 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75bc59f5-3fb1-43b5-8cad-40d88a2f9699" name="Changes" comment="">
+    <list default="true" id="75bc59f5-3fb1-43b5-8cad-40d88a2f9699" name="Changes" comment="change xml file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Homework_15" />
+        <entry key="$PROJECT_DIR$" value="Homework_16" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,31 +97,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Курсы Hilel/HillelCourse/src/test/resources/testng.xml&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Курсы Hilel/HillelCourse/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;two.files.diff.last.used.folder&quot;: &quot;D:/Курсы Hilel/HillelCourse&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowGit.ShowToolbar": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Курсы Hilel/HillelCourse/src/test/resources",
+    "onboarding.tips.debug.path": "D:/Курсы Hilel/HillelCourse/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "two.files.diff.last.used.folder": "D:/Курсы Hilel/HillelCourse"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ua.hilell.Files" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Курсы Hilel\HillelCourse\src\test\resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestRest.testGet">
+  <component name="RunManager" selected="TestNG.TestRest">
     <configuration name="DynamicLoadingTest.testDynamicLink1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
       <extension name="coverage">
@@ -263,8 +264,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestRest.testGet" />
         <item itemvalue="TestNG.TestRest" />
+        <item itemvalue="TestNG.TestRest.testGet" />
         <item itemvalue="TestNG.RestPostTest" />
         <item itemvalue="TestNG.RestPostTest.getAllPostsTest" />
         <item itemvalue="TestNG.DynamicLoadingTest.testDynamicLink1" />
@@ -329,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684745832292</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="change xml file">
+      <created>1689758297139</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689758297139</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -353,7 +361,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Homework_15" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -397,7 +405,8 @@
     <MESSAGE value="Homework lesson 07" />
     <MESSAGE value="Homework lesson 08 add exceptions to poker game" />
     <MESSAGE value="Homework lesson 09" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework lesson 09" />
+    <MESSAGE value="change xml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="change xml file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HillelCourse$CheckboxTest.ic" NAME="CheckboxTest Coverage Results" MODIFIED="1686729568344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
