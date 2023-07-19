@@ -68,5 +68,4 @@ public class TestRest {
         assertEquals(createdPost.getBody(), post.getBody());
 
     }
-
 }
