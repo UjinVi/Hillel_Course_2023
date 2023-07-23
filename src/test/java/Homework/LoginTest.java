@@ -10,7 +10,7 @@ import ua.hilell.pages.LoginPage;
 import ua.hilell.pages.MainPage;
 import ua.hilell.pages.SecurePage;
 
-public class LoginTest {
+public class LoginTest extends BaseTest{
 
     @Test
     public void testCorrectLogin() {

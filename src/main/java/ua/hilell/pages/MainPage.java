@@ -17,7 +17,7 @@ public class MainPage {
     @FindBy(linkText = "File Upload")
     private WebElement uploadLink;
 
-    public MainPage(WebDriver driver) {
+    public MainPage() {
         this.driver = driver;
         PageFactory.initElements(driver, this);
     }
@@ -39,6 +39,7 @@ public class MainPage {
         uploadLink.click();
         return new UploadPage();
     }
+
 }
 
 
