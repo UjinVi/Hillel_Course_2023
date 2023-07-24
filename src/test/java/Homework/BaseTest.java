@@ -75,6 +75,6 @@ public class BaseTest {
 
     public MainPage openApp() {
         driver.get("https://the-internet.herokuapp.com/");
-        return new MainPage();
+        return new MainPage(driver);
     }
 }

@@ -8,12 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75bc59f5-3fb1-43b5-8cad-40d88a2f9699" name="Changes" comment="Сommit xml">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Listners/CustomExtentReportListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/hilell/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/hilell/pages/MainPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Homework/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Homework/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework/LoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +127,7 @@
       <recent name="D:\Курсы Hilel\HillelCourse\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTest">
+  <component name="RunManager" selected="TestNG.LoginTest (1)">
     <configuration name="FileUploadDownloadTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hillel_Course_2023" />
       <extension name="coverage">
@@ -180,7 +177,7 @@
       <option name="MAIN_CLASS_NAME" value="Homework.LoginTest" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea -Dbrowser -remote" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=remote" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
@@ -230,8 +227,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginTest" />
         <item itemvalue="TestNG.LoginTest (1)" />
+        <item itemvalue="TestNG.LoginTest" />
         <item itemvalue="TestNG.FileUploadDownloadTest" />
         <item itemvalue="TestNG.LoginTest.testCorrectLogin" />
       </list>

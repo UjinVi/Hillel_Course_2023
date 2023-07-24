@@ -17,7 +17,7 @@ public class MainPage {
     @FindBy(linkText = "File Upload")
     private WebElement uploadLink;
 
-    public MainPage() {
+    public MainPage(WebDriver driver) {
         this.driver = driver;
         PageFactory.initElements(driver, this);
     }
