@@ -23,6 +23,7 @@
         <gsonVersion>2.10.1</gsonVersion>
         <lombokVersion>1.18.28</lombokVersion>
         <RestAssureVersion>5.3.1</RestAssureVersion>
+        <extentReportVersion>1.0.7</extentReportVersion>
     </properties>
 
     <dependencies>
@@ -87,7 +88,12 @@
             <scope>test</scope>
         </dependency>
 
-
+        <!-- Reports -->
+        <dependency>
+            <groupId>com.aventstack</groupId>
+            <artifactId>extentreports-testng-adapter</artifactId>
+            <version>${extentReportVersion}</version>
+        </dependency>
 
     </dependencies>
 
@@ -99,7 +105,7 @@
                 <version>3.1.0</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>src/test/resources/RestApi.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <systemProperties>
                         <name>Karl</name>
